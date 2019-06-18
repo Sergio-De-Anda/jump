@@ -1,2 +1,2 @@
 # jump
-2D platformer game
+A 2D Platformer Game
