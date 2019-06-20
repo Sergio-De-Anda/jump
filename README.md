@@ -1,2 +1,2 @@
 # jump
-A 2D Platformer Game
+A Unity 2D Platformer Game
